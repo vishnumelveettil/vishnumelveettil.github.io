@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### FABLAB TRAINING
 My college provided a 2 weeks fablab training class from 03/07/2017 Thursday.
-The training program was conducted by **Mr.MUHAMMED JASEEL
+The training program was conducted by **Mr.MUHAMMED JASEEL**
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
