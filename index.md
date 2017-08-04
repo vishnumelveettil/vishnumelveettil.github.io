@@ -1,17 +1,10 @@
 ## ABOUT MY SELF
 Iam Vishnu.m.
 Iam a Electrical and Electronics Engineering student of **MESCE KUTTIPPURAM**
-You can use the [editor on GitHub](https://github.com/vishnumelveettil/vishnumelveettil.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### FABLAB TRAINING
-My college provided a 2 weeks fablab training class from 03/07/2017 Thursday.
+My college conducted a 2 weeks fablab training class from 03/07/2017 Thursday.
 The training program was conducted by **Mr.MUHAMMED JASEEL**
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
