@@ -1,4 +1,4 @@
-## About my self
+## ABOUT MY SELF
 Iam Vishnu.m.
 Iam a Electrical and Electronics Engineering student of **MESCE KUTTIPPURAM**
 You can use the [editor on GitHub](https://github.com/vishnumelveettil/vishnumelveettil.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
