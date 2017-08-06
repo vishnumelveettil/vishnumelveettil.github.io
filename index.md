@@ -31,6 +31,9 @@ Cura prepares your model for 3D printing. For novices, it makes it easy to get g
 
 ### CONTACT ME
 VISHNU M
+
 E Mail: vishnumelveetil@gmail.com
+
 Phone: 8156973687
+
 Social Network: [Facebook](https://www.facebook.com/ramanath.nathu)
