@@ -19,9 +19,11 @@ Neil A. Gershenfeld (born 1959 or 1960) is an American professor at MIT and the 
 ### COURSE PROGRESS
 
 - **FABLAB DAY 1**
+
  The course is conducted by the FabLab section of MESCE and was commenced on 2nd August 2017 Wednesday. The course is lead by Mr. Muhammed Jaseel. By the end of the day, simple assignments were given to the students, like creating acounts in GitHub, GrabCAD, Thingiverse, Instrucables etc.
  
 - **FABLAB DAY 2**
+
 We got an idea about How to Document our Work Properly and had a session about Github Page creation. DEatiled study was carried out about CNC, 3D Printing and Cura.
 
 ### COURSE TERMINOLOGY
